@@ -4,7 +4,7 @@ html {
 
 body {
   background-color: #b6a996;
-  background: url("http://javascriptbook.com/code/c02/images/hobart.jpg")
+  background: url("https://cdn.helpsystems.com/itom-cloud-generic-article-data-center-cloud-900x412.gif")
     no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -43,14 +43,14 @@ h1 {
   height: 112px;
   margin: 0px auto 0px auto;
   padding-top: 40px;
-  background: url("http://javascriptbook.com/code/c02/images/elderflower-logo.png") no-repeat bottom center;
+  background: url("https://securityintelligence.com/wp-content/uploads/2018/10/simplify-your-security-with-an-open-cloud-based-platform-3-630x330.jpg") no-repeat bottom center;
 }
 
 h2 {
   width: 286px;
   height: 18px;
   margin: 0px auto 20px auto;
-  background: url("http://javascriptbook.com/code/c02/images/custom-sign.png") no-repeat center center;
+  background: url("https://cdn.helpsystems.com/itom-cloud-generic-article-data-center-cloud-900x412.gif") no-repeat center center;
 }
 
 #title {
@@ -95,7 +95,7 @@ a {
 
 .true,
 .false {
-  background: url("http://javascriptbook.com/code/c02/images/tick-cross.png");
+  background: url("https://image.shutterstock.com/image-illustration/2d-rendering-cloud-computing-concept-260nw-611605280.jpg");
   display: inline-block;
   float: right;
   height: 25px;
